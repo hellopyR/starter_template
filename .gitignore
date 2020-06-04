@@ -1,0 +1,29 @@
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+
+# input data and models
+input/
+models/
+
+
+# data files
+*.csv
+*.h5
+*.pkl
+*.pth
